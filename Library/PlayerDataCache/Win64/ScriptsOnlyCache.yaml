@@ -1375,4 +1375,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/GameTitle.unity
   - Assets/Scenes/GameStage.unity
-  playerPath: C:/Users/d/Survival/Survival/Survival/Survival.exe
+  playerPath: "C:/Users/rladp/OneDrive/\uBB38\uC11C/GitHub/Survival-1/BuildFile/Survival.exe"
